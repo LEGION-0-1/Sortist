@@ -1,0 +1,7 @@
+button{
+    background: transparent;
+    margin: 10px;;
+}
+button:focus {
+    outline: none;
+}
